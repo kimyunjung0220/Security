@@ -6,7 +6,7 @@ json으로 재가공하였습니다.
 
 apt install wireshark thsark -y
 usermod -aG wireshark -Yourname-
-pip3 install pyshark
+pip3 install pyshark re
 
 이렇게 설치해주시면 됩니다.
 
